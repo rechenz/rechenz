@@ -25,7 +25,7 @@
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| [The Demiurge](链接) | UE5 NPC 类人记忆系统 | UE5 C++, Go, LoRA |
+| The Demiurge | UE5 NPC 类人记忆系统(暂未开工) | UE5 C++, Go, LoRA |
 
 > *（更多项目施工中……）*
 
