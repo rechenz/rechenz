@@ -33,8 +33,10 @@
 
 ### 📊 GitHub Stats
 
-![rechenz's stats](https://github-readme-stats.vercel.app/api?username=rechenz&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rechenz&layout=compact&theme=dark&hide_border=true&exclude_repo=Jenny-mod-1.21.1)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=rechenz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="rechenz's stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rechenz&layout=donut-vertical&theme=dark&hide_border=true&exclude_repo=Jenny-mod-1.21.1&hide_values=true" alt="Top Langs" />
+</p>
 
 ---
 
