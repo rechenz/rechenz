@@ -18,7 +18,6 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk)
 
 ---
 
@@ -28,8 +27,6 @@
 |---------|------------|-------|
 | [The Demiurge](https://github.com/rechenz/TheDemiuge-UE5-) | 引擎无关的开源 AI-UE5 交互框架 / NPC 类人记忆系统 | UE5 C++, Go, LoRA |
 | [DOT 宇宙探索](https://github.com/rechenz/gamejam) | GameJam 2026 参赛作品 — 2D 叙事解谜冒险游戏，康威生命游戏世界观 | Unity, C# |
-| [Jenny Mod](https://github.com/rechenz/Jenny-mod-1.21.1) | Minecraft Forge 1.21.1 模组，14 个角色，银狼特别版 ⭐ | Java, Forge |
-| [rechenz.github.io](https://github.com/rechenz/rechenz.github.io) | 个人博客 — Hugo + PaperMod，GitHub Pages 部署 | Hugo, C# |
 | [AIsolution](https://github.com/rechenz/AIsolution) | AI 课程作业方案集合 | Python, Jupyter |
 | [SetupLocal for cs231n](https://github.com/rechenz/SetupLocal-for-cs231n-25) | Windows 本地配置 cs231n 环境的 conda 补充文档 | 文档 |
 
