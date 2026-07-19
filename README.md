@@ -25,7 +25,6 @@
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| [The Demiurge](https://github.com/rechenz/TheDemiuge-UE5-) | 引擎无关的开源 AI-UE5 交互框架 / NPC 类人记忆系统 | UE5 C++, Go, LoRA |
 | [DOT 宇宙探索](https://github.com/rechenz/gamejam) | GameJam 2026 参赛作品 — 2D 叙事解谜冒险游戏，康威生命游戏世界观 | Unity, C# |
 | [AIsolution](https://github.com/rechenz/AIsolution) | AI 课程作业方案集合 | Python, Jupyter |
 | [SetupLocal for cs231n](https://github.com/rechenz/SetupLocal-for-cs231n-25) | Windows 本地配置 cs231n 环境的 conda 补充文档 | 文档 |
