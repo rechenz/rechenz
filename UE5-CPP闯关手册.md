@@ -205,3 +205,29 @@ AIController + 黑板：巡逻路径 → 发现玩家 → 追击 → 近战攻�
 主线 24 题全通 = 一个能拿出手的地牢生存 demo + 覆盖 UE 程序 90% 的日常知识面。
 
 到时候这就是你投老米实习的敲门砖——比简历上写「熟悉 UE5」有用一百倍。毕竟，重要的不是数值，是操作。
+
+---
+
+## 📦 素材说明（UE 5.8 实测）
+
+> ⚠️ **5.8 已移除 Starter Content 内容包**（FeaturePacks 里没有 StarterContent.upack），编辑器里搜不到是正常的。
+
+### 素材来源（引擎自带，零成本）
+
+| 素材 | 位置 | 用途 |
+|------|------|------|
+| BasicShapes（方块/球体/圆锥/圆柱） | `Engine\Content\BasicShapes` → 项目 `Content\BasicShapes` | 所有占位：敌人、子弹、手雷、房间 |
+| Quinn/Manny 角色 + 全套动画 | `Templates\TemplateResources\High\Characters\Content\Mannequins` → 项目 `Content\Characters\Mannequins` | 玩家/敌人骨骼网格、Walk/Jog/Jump/Attack/HitReact/Death/Pistol/Rifle 动画、ABP_Unarmed 动画蓝图 |
+| NS_Damage 伤害特效 | `Templates\TP_ThirdPerson\Content\Variant_Combat\VFX` → 项目 `Content\VFX` | 命中/受击粒子 |
+
+### 已拷入 `F:\project\IWannaBecomeUEMaster\Content\`
+
+- `BasicShapes/` — 7 个基础几何体 + 材质
+- `Characters/Mannequins/` — 128 文件 / 125MB，路径 `/Game/Characters/Mannequins/...`（与模板引用一致）
+- `VFX/NS_Damage.uasset`
+
+### 注意
+
+- 手动拷 uasset 后需在 Content Browser 右键 Refresh 或重启编辑器
+- 拷贝时保持目录结构，资产内部引用路径才能对上
+- BGM 是唯一需要外部素材的（题 17），用 CC0 免费音频或先不放
