@@ -27,6 +27,7 @@
 
 | Project | Description | Stack |
 |---------|------------|-------|
+| [TheDemiuge-Bridge](https://github.com/rechenz/TheDemiuge-Bridge) | UE5 NPC 记忆系统的 Go 后端 — 引擎无关 AI 通信框架（ReAct 对话 + MCP 注册中心） | Go |
 | [DOT 宇宙探索](https://github.com/rechenz/gamejam) | GameJam 2026 参赛作品 — 2D 叙事解谜冒险游戏，康威生命游戏世界观 | Unity, C# |
 | [TheTravel](https://github.com/rechenz/TheTravel) | CUSGA 参赛项目 — RPG 游戏（fork from Koukoe） | Unity, C# |
 | [weight-masking-experiment](https://github.com/rechenz/weight-masking-experiment) | 约束式训练策略验证 — 模拟「婴儿机能不全→健全」的模型训练方法 | PyTorch, Python |
