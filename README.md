@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm rechenz</h1>
-<h3 align="center">Game Developer · AI Tinkerer · ACM现役咸鱼</h3>
+<h3 align="center">Game Developer · AI Tinkerer · ACM退役咸鱼</h3>
 
 ---
 
 🎮 Building **NPCs that remember your name** in UE5  
 🤖 Exploring edge-side LLM inference & LoRA  
 🧪 Experimenting with constraint-based training strategies for Transformers  
-⚡ ACM-ICPC 现役选手  
+⚡ ACM-ICPC 退役选手  
 🌱 Currently learning: **Unreal Engine 5 · Go · Backend**
 
 ---
@@ -27,7 +27,7 @@
 
 | Project | Description | Stack |
 |---------|------------|-------|
-| [TheDemiugeUE5](https://github.com/rechenz/TheDemiugeUE5) | TheDemiuge 项目的UE5客户端 - 完善的RPG框架， 适配 TheDemiuge-Bridge 交互 | C++, UE5 |
+| [TheDemiugeUE5](https://github.com/rechenz/TheDemiugeUE5) | TheDemiuge 项目的UE5客户端 - 完善的RPG框架， 适配 TheDemiuge-Bridge 交互 (正在施工) | C++, UE5 |
 | [TheDemiuge-Bridge](https://github.com/rechenz/TheDemiuge-Bridge) | TheDemiuge项目的 Go 后端 — 引擎无关 AI 通信框架（ReAct 对话 + MCP 注册中心） | Go |
 | [IWannaBecomeUEMaster](https://github.com/rechenz/IWannaBecomeUEMaster) | UE5 C++ 闯关学习 — 从零到 UE 程序，8 关 24 题（[📖 闯关手册](UE5-CPP闯关手册.md)） | C++, UE5 |
 | [DOT 宇宙探索](https://github.com/rechenz/gamejam) | GameJam 2026 参赛作品 — 2D 叙事解谜冒险游戏，康威生命游戏世界观 | Unity, C# |
